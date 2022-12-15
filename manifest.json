@@ -13,8 +13,8 @@
       "48": "icon-48.png",
       "128": "icon-128.png"
    },
-   "manifest_version": 2,
+   "manifest_version":"2.9",
    "name": "Memento Mori",
    "offline_enabled": true,
-   "version": "1"
+   "version": "2.9"
 }
